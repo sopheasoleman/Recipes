@@ -8,6 +8,7 @@ all easy recipes
 ## Featured Recipes
 - [Easy Homemade Coleslaw Recipe](./Recipes/Easy-Homemade-Coleslaw-Recipe.md)
 - [Maple Pecan Plait Recipe](./Recipes/Maple-Pecan-Plait-Recipe.md)
+- [Chicken Makhani Recipe](./Recipes/Chicken-Makhani-Recipe.md)
 - [Weekly Grocery List](./Grocery-List-Template.md)
 
 ## Quick Links
