@@ -11,4 +11,4 @@ all easy recipes
 
 ## Quick Links
 📋 [Contribution Guide](./CONTRIBUTING.md)  
-⚖️ [License](./LICENSE)
+⚖️ [License](./LICENSE.md)
