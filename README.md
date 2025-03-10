@@ -6,7 +6,7 @@ all easy recipes
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@easyrecipe120)
 
 ## Featured Recipes
-- [Fluffy Pancakes](./Recipes/Breakfast/Pancakes.md)
+- [Easy Homemade Coleslaw Recipe](./Recipes/Easy-Homemade-Coleslaw-Recipe.md)
 - [Weekly Grocery List](./Grocery-List-Template.md)
 
 ## Quick Links
